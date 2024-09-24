@@ -1,0 +1,500 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\views\\home\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\views\\home\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\views\\home\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\views\\home\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\views\\home\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\views\\home\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\models\\tbcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\models\\tbcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\models\\tbcartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\models\\tbcartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\models\\tbcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\models\\tbcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\models\\tbcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\models\\tbcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\models\\tbproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\models\\tbproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\models\\tbstaft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\models\\tbstaft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\helper\\extensionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\helper\\extensionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\models\\websitelazadacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\models\\websitelazadacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\js\\plugins.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\wwwroot\\js\\plugins.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\js\\modernizr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\wwwroot\\js\\modernizr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\js\\jquery-1.11.0.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\wwwroot\\js\\jquery-1.11.0.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\css\\normalize.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\wwwroot\\css\\normalize.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\css\\vendor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\wwwroot\\css\\vendor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\css\\ajax-loader.gif||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\wwwroot\\css\\ajax-loader.gif||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|c:\\users\\admin\\desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE8FF123-1FEC-41A8-8D15-C8F3283C6F61}|asmgd2_maivanminh\\asmgd2_maivanminh.csproj|solutionrelative:asmgd2_maivanminh\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DangNhap.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Views\\Home\\DangNhap.cshtml",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\Views\\Home\\DangNhap.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Views\\Home\\DangNhap.cshtml",
+              "RelativeToolTip": "asmgd2_maivanminh\\Views\\Home\\DangNhap.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAIkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T17:07:14.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "giohang.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Views\\Home\\giohang.cshtml",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\Views\\Home\\giohang.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Views\\Home\\giohang.cshtml",
+              "RelativeToolTip": "asmgd2_maivanminh\\Views\\Home\\giohang.cshtml",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAFkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T18:35:34.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "asmgd2_maivanminh\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAFwCAAAAAAAAAAAAACoCAACzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T18:23:24.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sanpham.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Views\\Home\\sanpham.cshtml",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\Views\\Home\\sanpham.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Views\\Home\\sanpham.cshtml",
+              "RelativeToolTip": "asmgd2_maivanminh\\Views\\Home\\sanpham.cshtml",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAAAEMCAACeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T18:23:32.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "asmgd2_maivanminh\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:36:34.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GioHang.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Models\\GioHang.cs",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\Models\\GioHang.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Models\\GioHang.cs",
+              "RelativeToolTip": "asmgd2_maivanminh\\Models\\GioHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T18:26:39.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TbCart.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Models\\TbCart.cs",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\Models\\TbCart.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Models\\TbCart.cs",
+              "RelativeToolTip": "asmgd2_maivanminh\\Models\\TbCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T00:22:58.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TbCartDetail.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Models\\TbCartDetail.cs",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\Models\\TbCartDetail.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Models\\TbCartDetail.cs",
+              "RelativeToolTip": "asmgd2_maivanminh\\Models\\TbCartDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T00:23:31.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TbCategory.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Models\\TbCategory.cs",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\Models\\TbCategory.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Models\\TbCategory.cs",
+              "RelativeToolTip": "asmgd2_maivanminh\\Models\\TbCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T01:18:03.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TbCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Models\\TbCustomer.cs",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\Models\\TbCustomer.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Models\\TbCustomer.cs",
+              "RelativeToolTip": "asmgd2_maivanminh\\Models\\TbCustomer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:33:29.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TbProduct.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Models\\TbProduct.cs",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\Models\\TbProduct.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Models\\TbProduct.cs",
+              "RelativeToolTip": "asmgd2_maivanminh\\Models\\TbProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:33:40.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TbStaft.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Models\\TbStaft.cs",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\Models\\TbStaft.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Models\\TbStaft.cs",
+              "RelativeToolTip": "asmgd2_maivanminh\\Models\\TbStaft.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T02:26:23.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Startup.cs",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\Startup.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Startup.cs",
+              "RelativeToolTip": "asmgd2_maivanminh\\Startup.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T00:29:46.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "jquery-1.11.0.min.js",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\js\\jquery-1.11.0.min.js",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\wwwroot\\js\\jquery-1.11.0.min.js",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\js\\jquery-1.11.0.min.js",
+              "RelativeToolTip": "asmgd2_maivanminh\\wwwroot\\js\\jquery-1.11.0.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-26T02:48:44.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "extensionhelper.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\helper\\extensionhelper.cs",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\helper\\extensionhelper.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\helper\\extensionhelper.cs",
+              "RelativeToolTip": "asmgd2_maivanminh\\helper\\extensionhelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:04:00.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "modernizr.js",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\js\\modernizr.js",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\wwwroot\\js\\modernizr.js",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\js\\modernizr.js",
+              "RelativeToolTip": "asmgd2_maivanminh\\wwwroot\\js\\modernizr.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-26T02:48:48.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "plugins.js",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\js\\plugins.js",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\wwwroot\\js\\plugins.js",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\js\\plugins.js",
+              "RelativeToolTip": "asmgd2_maivanminh\\wwwroot\\js\\plugins.js",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-26T02:48:49.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "asmgd2_maivanminh\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T02:26:12.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "asmgd2_maivanminh\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T02:26:24.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ajax-loader.gif",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\css\\ajax-loader.gif",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\wwwroot\\css\\ajax-loader.gif",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\css\\ajax-loader.gif",
+              "RelativeToolTip": "asmgd2_maivanminh\\wwwroot\\css\\ajax-loader.gif",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-20T02:36:19.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "asmgd2_maivanminh\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAI4BAAAAAAAAAAAAAKABAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-20T02:36:20.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "asmgd2_maivanminh\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-20T02:39:01.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "vendor.css",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\css\\vendor.css",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\wwwroot\\css\\vendor.css",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\css\\vendor.css",
+              "RelativeToolTip": "asmgd2_maivanminh\\wwwroot\\css\\vendor.css",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-20T02:39:05.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "normalize.css",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\css\\normalize.css",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\wwwroot\\css\\normalize.css",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\css\\normalize.css",
+              "RelativeToolTip": "asmgd2_maivanminh\\wwwroot\\css\\normalize.css",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAAAE0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-20T02:39:18.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Program.cs",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Program.cs",
+              "RelativeToolTip": "asmgd2_maivanminh\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwAgAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T02:13:07.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\appsettings.json",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\appsettings.json",
+              "RelativeToolTip": "asmgd2_maivanminh\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T02:26:30.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "asmgd2_maivanminh\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T02:26:25.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WebsiteLazadaContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Models\\WebsiteLazadaContext.cs",
+              "RelativeDocumentMoniker": "asmgd2_maivanminh\\Models\\WebsiteLazadaContext.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\Models\\WebsiteLazadaContext.cs",
+              "RelativeToolTip": "asmgd2_maivanminh\\Models\\WebsiteLazadaContext.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T01:33:18.779Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

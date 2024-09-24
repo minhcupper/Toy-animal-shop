@@ -1,0 +1,116 @@
+﻿@model IEnumerable<asmgd2_maivanminh.Models.GioHang>
+@{
+    ViewData["Title"] = "giohang";
+
+}
+<style>
+    a{
+        list-style:none;
+        text-decoration:none;
+    }
+    li{
+        list-style: none;
+        text-decoration: none;
+    }
+    header{
+        display:none
+    }
+
+    footer {
+        display: none
+    }
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Chilanka&family=Montserrat:wght@300;400;500&display=swap"
+      rel="stylesheet">
+<link rel="stylesheet" href="~/css/ajax-loader.gif" />
+<link rel="stylesheet" type="text/css" href="~/css/vendor.css">
+<link rel="stylesheet" type="text/css" href="~/css/style.css">
+<link href="~/assets/vendor/bootstrap-5.1.3/css/bootstrap.css" rel="stylesheet" />
+<link href="~/assets/vendor/bootstrap-5.1.3/js/bootstrap.js" rel="stylesheet" />
+
+<div class="site-section">
+    <div class="container">
+        <div class="row mb-5">
+            <form class="col-md-12" method="post">
+                <div class="site-blocks-table">
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th class="product-thumbnail">Image</th>
+                                <th class="product-name">Product</th>
+                                <th class="product-price">Price</th>
+                                <th class="product-quantity">Quantity</th>
+                                <th class="product-total">Total</th>
+                                <th class="product-remove">Remove</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td class="product-thumbnail">
+                                        <img style="width:200px;height:180px" src="@Url.Content("~/image/" + item.Descriptions)" alt="@item.ProductName" class="img-fluid rounded-4" />
+                                    </td>
+                                    <td class="product-name">
+                                        <h2 class="h5 text-black">@item.ProductName</h2>
+                                    </td>
+                                    <td>@item.Price</td>
+                                    <td>
+                                        <div class="input-group mb-3" style="max-width: 120px;">
+                                            <div class="input-group-prepend">
+                                                <button class="btn btn-outline-primary js-btn-minus" type="button"><a style="list-style:none;text-decoration:none" asp-action="RemoveOneFromCart" asp-route-id="@item.ProductId"> <h5 class="text-uppercase m-0">-</h5></a></button>
+                                            </div>
+                                            <input style="width:26px" type="text" class="form-control text-center" value="@item.Soluong" placeholder="" aria-label="Example text with button addon" aria-describedby="button-addon1" >
+                                            <div class="input-group-append">
+                                                <button class="btn btn-outline-primary js-btn-plus" type="button"><a style="list-style:none;text-decoration:none" asp-action="Addtocart" asp-route-id="@item.ProductId"> <h5 class="text-uppercase m-0">+</h5></a></button>
+                                            </div>
+                                        </div>
+
+                                    </td>
+                                    <td>@item.ThanhTien</td>
+                                    <td> <a style="list-style:none;text-decoration:none" asp-action="RemoveFromCart" asp-route-id="@item.ProductId"> <h1 class="text-uppercase m-0">X</h1></a></td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </form>
+        </div>
+        @foreach (var item in Model)
+        {
+            <div class="row">
+                <div class="col-md-12">
+                    <button class="btn btn-primary btn-lg py-3 btn-block" onclick="window.location='checkout.html'"><a style="list-style:none;text-decoration:none" asp-action="RemoveFromCart" asp-route-id="@item.ProductId" style="list-style:none;text-decoration:none"> <h6 class="text-uppercase m-0">Check Out</h6></a></button>
+                </div>
+            </div>
+        }
+        <div class="row">
+            <div class="col-md-6">
+                <div class="row mb-5">
+                    <div class="col-md-6 mb-3 mb-md-0">
+                        <button class="btn btn-primary btn-sm btn-block">Update Cart</button>
+                    </div>
+                    <div class="col-md-6">
+                        <button class="btn btn-outline-primary btn-sm btn-block"><a style="list-style:none;text-decoration:none" asp-action="Index">Tiếp tục mua sắm</a></button>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label class="text-black h4" for="coupon">Coupon</label>
+                        <p>Enter your coupon code if you have one.</p>
+                    </div>
+                    <div class="col-md-8 mb-3 mb-md-0">
+                        <input type="text" class="form-control py-3" id="coupon" placeholder="Coupon Code">
+                    </div>
+                    <div class="col-md-4">
+                        <button class="btn btn-primary btn-sm">Apply Coupon</button>
+                    </div>
+                </div>
+            </div>
+          
+        </div>
+    </div>
+</div>

@@ -1,0 +1,765 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\asmgd2_maivanminh.bundle.scp.css",
+      "PackagePath": "staticwebassets\\asmgd2_maivanminh.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-5.1.3\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\chocolat\\images\\close.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chocolat\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\chocolat\\images\\fullscreen-black.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chocolat\\images\\fullscreen-black.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\chocolat\\images\\fullscreen.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chocolat\\images\\fullscreen.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\chocolat\\images\\left.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chocolat\\images\\left.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\chocolat\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chocolat\\images\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\chocolat\\images\\right.png",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chocolat\\images\\right.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\assets\\vendor\\masonry\\masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\masonry\\masonry.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\css\\vendor.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\image\\1.jpg",
+      "PackagePath": "staticwebassets\\image\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\image\\10.jpg",
+      "PackagePath": "staticwebassets\\image\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\image\\11.jpg",
+      "PackagePath": "staticwebassets\\image\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\image\\12.jpg",
+      "PackagePath": "staticwebassets\\image\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\image\\13.jpg",
+      "PackagePath": "staticwebassets\\image\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\image\\14.jpg",
+      "PackagePath": "staticwebassets\\image\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\image\\15.jpg",
+      "PackagePath": "staticwebassets\\image\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\image\\16.jpg",
+      "PackagePath": "staticwebassets\\image\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\image\\17.jpg",
+      "PackagePath": "staticwebassets\\image\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\image\\18.jpg",
+      "PackagePath": "staticwebassets\\image\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\image\\19.jpg",
+      "PackagePath": "staticwebassets\\image\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\image\\2.jpg",
+      "PackagePath": "staticwebassets\\image\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\image\\20.jpg",
+      "PackagePath": "staticwebassets\\image\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\image\\3.jpg",
+      "PackagePath": "staticwebassets\\image\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\image\\4.jpg",
+      "PackagePath": "staticwebassets\\image\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\image\\5.jpg",
+      "PackagePath": "staticwebassets\\image\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\image\\6.jpg",
+      "PackagePath": "staticwebassets\\image\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\image\\7.jpg",
+      "PackagePath": "staticwebassets\\image\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\image\\8.jpg",
+      "PackagePath": "staticwebassets\\image\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\image\\9.jpg",
+      "PackagePath": "staticwebassets\\image\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\image\\bg.jpg",
+      "PackagePath": "staticwebassets\\image\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\background-img.png",
+      "PackagePath": "staticwebassets\\images\\background-img.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\banner-img.png",
+      "PackagePath": "staticwebassets\\images\\banner-img.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\banner-img2.png",
+      "PackagePath": "staticwebassets\\images\\banner-img2.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\banner-img3.png",
+      "PackagePath": "staticwebassets\\images\\banner-img3.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\banner-img4.png",
+      "PackagePath": "staticwebassets\\images\\banner-img4.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\blog-large.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\blog-lg1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-lg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\blog-lg2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-lg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\blog-lg3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-lg3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\blog-lg4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-lg4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\blog1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\blog2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\blog3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\chocolat\\close.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\chocolat\\fullscreen-black.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\fullscreen-black.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\chocolat\\fullscreen.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\fullscreen.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\chocolat\\left.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\left.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\chocolat\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\chocolat\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\chocolat\\right.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\right.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\insta1.jpg",
+      "PackagePath": "staticwebassets\\images\\insta1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\insta2.jpg",
+      "PackagePath": "staticwebassets\\images\\insta2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\insta3.jpg",
+      "PackagePath": "staticwebassets\\images\\insta3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\insta4.jpg",
+      "PackagePath": "staticwebassets\\images\\insta4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\insta5.jpg",
+      "PackagePath": "staticwebassets\\images\\insta5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\insta6.jpg",
+      "PackagePath": "staticwebassets\\images\\insta6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\item1.jpg",
+      "PackagePath": "staticwebassets\\images\\item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\item10.jpg",
+      "PackagePath": "staticwebassets\\images\\item10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\item11.jpg",
+      "PackagePath": "staticwebassets\\images\\item11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\item12.jpg",
+      "PackagePath": "staticwebassets\\images\\item12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\item13.jpg",
+      "PackagePath": "staticwebassets\\images\\item13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\item14.jpg",
+      "PackagePath": "staticwebassets\\images\\item14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\item15.jpg",
+      "PackagePath": "staticwebassets\\images\\item15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\item16.jpg",
+      "PackagePath": "staticwebassets\\images\\item16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\item2.jpg",
+      "PackagePath": "staticwebassets\\images\\item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\item3.jpg",
+      "PackagePath": "staticwebassets\\images\\item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\item4.jpg",
+      "PackagePath": "staticwebassets\\images\\item4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\item5.jpg",
+      "PackagePath": "staticwebassets\\images\\item5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\item6.jpg",
+      "PackagePath": "staticwebassets\\images\\item6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\item7.jpg",
+      "PackagePath": "staticwebassets\\images\\item7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\item8.jpg",
+      "PackagePath": "staticwebassets\\images\\item8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\item9.jpg",
+      "PackagePath": "staticwebassets\\images\\item9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\reviewer-1.jpg",
+      "PackagePath": "staticwebassets\\images\\reviewer-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\reviewer-2.jpg",
+      "PackagePath": "staticwebassets\\images\\reviewer-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\images\\reviewer-3.jpg",
+      "PackagePath": "staticwebassets\\images\\reviewer-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\js\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\asmgd2_maivanminh\\asmgd2_maivanminh\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.asmgd2_maivanminh.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.asmgd2_maivanminh.props",
+      "PackagePath": "build\\asmgd2_maivanminh.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.asmgd2_maivanminh.props",
+      "PackagePath": "buildMultiTargeting\\asmgd2_maivanminh.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.asmgd2_maivanminh.props",
+      "PackagePath": "buildTransitive\\asmgd2_maivanminh.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\asmgd2_maivanminh.props" />
+</Project>
